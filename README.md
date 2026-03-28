@@ -5,12 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammetb123" alt="muhammetb123" /></a> </p>
 
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muhammetb123&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammetb123&layout=compact&theme=dark)
-
 - 📫 How to reach me **muhammetb1997@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
